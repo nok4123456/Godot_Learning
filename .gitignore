@@ -1,0 +1,28 @@
+# Godot-specific files
+.godot/imported/
+.godot/.export/
+export.cfg
+export_presets.cfg
+.godot/shader_cache/
+.godot/editor/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other common files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Godot editor settings (optional)
+.editor_settings-*
+
+# Mono-specific files (if using C#)
+mono/
+.mono/
+*.csproj
+*.sln
+*.userprefs
