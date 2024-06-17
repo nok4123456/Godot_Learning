@@ -10,6 +10,8 @@ radius = 5.0
 collision_layer = 0
 script = ExtResource("1_cj0pu")
 
+[node name="Node" type="Node" parent="."]
+
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("2_xxes3")
 offset = Vector2(0, -8)
