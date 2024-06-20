@@ -9,6 +9,7 @@ radius = 5.0
 
 [node name="Player" type="CharacterBody2D" groups=["player"]]
 collision_layer = 0
+motion_mode = 1
 script = ExtResource("1_cj0pu")
 
 [node name="SwordAbilityController" parent="." instance=ExtResource("2_eeeio")]
